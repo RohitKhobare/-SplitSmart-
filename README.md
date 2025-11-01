@@ -80,5 +80,5 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 Developed by **Rohit Khobare**  
-📧 [your-email@example.com]  
-🌐 [https://github.com/your-username](https://github.com/your-username)
+📧 [rohitkhobare2005@gmail.com.com]  
+🌐 [https://github.com/your-username](https://github.com/RohitKhobare)
